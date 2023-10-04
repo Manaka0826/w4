@@ -7,7 +7,7 @@ function randomValueFromArray(array){
   return array[random];
 }
 
-const storyText = 'くっそあっつい日に:insertx: が日光浴をしました。その後、暑い所に移動したかったため、 :inserty:に行った,さらに:insertx: はドMなので自分の極限まで発汗させようとした。:insertx: は、:insertz: 、過ごした。 私の生きがいは自分を極限の状態までいじめることである。 — しかし、:insertx: は体重が100kgある。';
+const storyText = 'くっそあっつい日に:insertx: が日光浴をしました。その後、暑い所に移動したかったため、 :inserty:に行った。さらに:insertx: はドMなので自分の極限まで発汗させようとした。:insertx: は、:insertz: 、過ごした。 :insertx:の生きがいは自分を極限の状態までいじめることである。 — しかし、:insertx: は体重が100kgある。';
 const insertX = ['まさお', '父', 'まーたん'];
 const insertY = ['沖縄', '砂漠', 'サウナ'];
 const insertZ = ['辛いものを食べて', 'ロウリュウを浴びて', '大量の服を着込んで'];
