@@ -34,10 +34,7 @@ function result() {
     const name = customName.value;
     newStory = newStory.replace('Manaka', name);
   }
-if (document.getElementById("US").checked) {
-    const weight = `${Math.round(100*2.2046)} stone`;
-    newStory = newStory.replace('100kg', weight);
-  }
+
 
   
   story.textContent = newStory;
